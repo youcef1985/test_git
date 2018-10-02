@@ -3,6 +3,11 @@
 
 int main()
 {
-    printf("test premier message!\n");
+    int i;
+    for (i=0;i<10; i++)
+    {
+        printf("test premier message!\n");
+    }
+
     return 0;
 }
