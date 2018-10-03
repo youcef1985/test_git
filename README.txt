@@ -1,1 +1,0 @@
-Un test de boucle "for" lors du cours C de base
